@@ -10,3 +10,5 @@ title = "Test Cloudinary Images"
 ![](https://res.cloudinary.com/drewkramer/image/upload/v1542060582/drewkramer/asimplepalate-feature-reg.jpg)
 
 Testing cloudinary yalllllll
+
+![](https://res.cloudinary.com/drewkramer/image/upload/v1542489141/drewkramer/allrd/allrd_thumbnail.jpg)
