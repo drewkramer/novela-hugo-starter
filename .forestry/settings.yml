@@ -31,7 +31,7 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yaml
-upload_dir: v1542077290/drewkramer
+upload_dir: drewkramer
 public_path: https://res.cloudinary.com/drewkramer/image/upload/v1542077290/drewkramer
 front_matter_path: ''
 use_front_matter_path: 
